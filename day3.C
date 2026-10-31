@@ -6,4 +6,4 @@ int main(){
     printf("my age is %d", age);
 
     return 0;
-}
+}C
